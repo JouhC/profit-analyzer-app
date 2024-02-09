@@ -12,7 +12,7 @@ import streamlit as st
 
 # Instantiate OpenAI with credentials from environment or streamlit secrets
 load_dotenv()
-openai_key = os.getenv("OPENAI_API_KEY")
+openai_key = os.getenv("OPENAI_API_KEY") or st.secrets["OPENAI_API_KEY"]
 client = OpenAI()
 
 # Suppress openai request/response logging

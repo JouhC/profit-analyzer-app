@@ -1,0 +1,41 @@
+{
+    "industries":[
+        "Agriculture",
+        "Apparel and Fashion",
+        "Automotive",
+        "Banking and Finance",
+        "Biotechnology",
+        "Chemicals",
+        "Construction",
+        "Education",
+        "Energy (Renewable and Non-Renewable)",
+        "Entertainment and Media",
+        "Food and Beverage",
+        "Healthcare and Medical Services",
+        "Hospitality and Tourism",
+        "Information Technology (IT)",
+        "Insurance",
+        "Manufacturing",
+        "Mining and Metals",
+        "Nonprofit and Social Services",
+        "Pharmaceuticals",
+        "Real Estate and Property Management",
+        "Retail",
+        "Telecommunications",
+        "Transportation and Logistics",
+        "Utilities (Water, Electricity, Gas)",
+        "Veterinary Services",
+        "Waste Management",
+        "Web Development and Technology Services",
+        "Wholesale Trade",
+        "Aerospace and Defense",
+        "Architecture and Design",
+        "Plumbing"
+    ],
+    "scenarios":[
+        "Fulfillment expenses are greater than Budget.",
+        "How to evaluate ROI of Lead Generation and determine if it is an issue.",
+        "How to evaluate ROI of Sales and determine if it is an issue.",
+        "General Overhead (“GOH”) expenses are greater than Budget."
+    ]
+}
